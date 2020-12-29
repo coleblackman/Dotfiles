@@ -1,5 +1,5 @@
 # Dotfiles
-Personal dotfiles. Vim, Neovim, Ultisnips, Kitty, Zathura, etc. 
+Personal dotfiles. Vim, Neovim, Ultisnips, Kitty, Zathura, etc. WIP
 
 Experimental.
 
