@@ -1,0 +1,25 @@
+map r reload
+map p print
+map i recolor
+map J zoom out
+map K zoom in
+map R rotate
+unmap f
+
+map f toggle_fullscreen
+
+map [fullscreen] f toggle_fullscreen
+
+
+
+
+
+
+
+
+set selection-clipboard clipboard
+
+set default-bg	"#1d1f21"
+set recolor-darkcolor            "#ffffff" # base02
+set recolor-lightcolor           "#1d1f21" # base1
+# set recolor-keephue             true      # keep original color
